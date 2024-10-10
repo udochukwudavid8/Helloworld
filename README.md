@@ -1,1 +1,1 @@
-this is a new file for helloworld
+This code is to help you understand what you are doing
