@@ -11,5 +11,6 @@ public class TimeService {
         int weeks = Integer.parseInt(JOptionPane.showInputDialog("Enter Week: "));
         int hours = weeks * 7 * 24;
         JOptionPane.showMessageDialog(null,hours + " hours");
+
     }
 }
